@@ -9,7 +9,7 @@ This extension enables viewing your news & social media posts regarding Jews as 
 
 
 Inspired by this protest sign.  Individual in pic is unknown for attribution.
-![alt text](https://github.com/munchicken/dislafn/blob/master/DISLAFN.jpg "DISLaFN? Protest Sign Photo")
+<img src="https://github.com/munchicken/dislafn/blob/master/DISLAFN.jpg" alt="DISLaFN? Protest Sign" width=300 height=300>
 
 
 I recommend pairing this source code with "Weight of the World" by Apoptygma Berzerk  -  (https://www.youtube.com/watch?v=OilB45L-5kA)
