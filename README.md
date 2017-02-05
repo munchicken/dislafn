@@ -9,6 +9,7 @@ This extension enables viewing your news & social media posts regarding Jews as 
 
 
 Inspired by this protest sign.  Individual in pic is unknown for attribution.
+
 <img src="https://github.com/munchicken/dislafn/blob/master/DISLAFN.jpg" alt="DISLaFN? Protest Sign" width=300 height=300>
 
 
