@@ -21,8 +21,8 @@ I recommend pairing this source code with "Weight of the World" by Apoptygma Ber
 ---
 Instructions:
 * Find extension in the Chrome Web Store
-..* Serarch for "DISLaFN" or
-..* Go directly to:  https://chrome.google.com/webstore/detail/dislafn/hcfmeolajjcfeildlejjhadkbnfbmjfo
+  * Serarch for "DISLaFN" or
+  * Go directly to:  https://chrome.google.com/webstore/detail/dislafn/hcfmeolajjcfeildlejjhadkbnfbmjfo
 * Click "Add to Chrome" button
 * Click "Add Extension" on popup message
 * The DISLaFN? icon will be added to your Chrome
