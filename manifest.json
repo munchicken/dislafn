@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	
 	"name": "DISLaFN?",
-	"description": "This extension enables viewing your news & social media posts regarding Muslims as if they are about Jews (circa 1940's), so you can answer DISLaFN?",
+	"description": "Enables viewing your news & social media posts regarding Muslims as if they are about Jews circa 1940's, so you can answer DISLaFN?",
 	"version": "0.1",
 	
 	"browser_action": {
