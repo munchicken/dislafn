@@ -30,4 +30,4 @@ Issues:
 Planned Changes:
 * Fix Facebook integration by adding a dynamic node reload listener in the background
 * Add Enable/Disable button to popup
-* Fix icon in Extensions list
+* Done ~~Fix icon in Extensions list~~
