@@ -13,12 +13,20 @@ Inspired by this protest sign.  Individual in pic is unknown for attribution.
 <img src="https://github.com/munchicken/dislafn/blob/master/DISLAFN.jpg" alt="DISLaFN? Protest Sign" width=300 height=300>
 
 
-I recommend pairing this source code with "Weight of the World" by Apoptygma Berzerk  -  (https://www.youtube.com/watch?v=OilB45L-5kA)
+I recommend pairing this source code with "Weight of the World" by Apoptygma Berzerk
+
+(https://www.youtube.com/watch?v=OilB45L-5kA)
 
 
 ---
 Instructions:
-* TODO after publishing to Chrome Store
+* Find extension in the Chrome Web Store
+..* Serarch for "DISLaFN" or
+..* Go directly to:  https://chrome.google.com/webstore/detail/dislafn/hcfmeolajjcfeildlejjhadkbnfbmjfo
+* Click "Add to Chrome" button
+* Click "Add Extension" on popup message
+* The DISLaFN? icon will be added to your Chrome
+* Go to Settings -> Extensions to enable, disable, or remove DISLaFN?
 
 
 ---
