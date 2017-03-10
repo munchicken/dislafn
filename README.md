@@ -5,7 +5,7 @@ Chrome Extension by: Munchicken (https://github.com/munchicken)
 
 
 ---
-This extension enables viewing your news & social media posts regarding Jews as if they are about Jews (circa 1940's), so you can answer DISLaFN?
+This extension enables viewing your news & social media posts regarding Muslims as if they are about Jews (circa 1940's), so you can answer DISLaFN?
 
 
 Inspired by this protest sign.  Individual in pic is unknown for attribution.
